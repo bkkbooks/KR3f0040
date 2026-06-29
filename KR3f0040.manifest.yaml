@@ -1,0 +1,71 @@
+canonical_identifier: bkk:krp/KR3f0040/v1
+canonical_location: https://kanripo.org/bkk/KR3f0040/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 緝古算經
+  identifiers:
+    krp: KR3f0040
+  tags:
+    kr-categories: KR3f
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0040.xml
+  edition:
+    short: bkk
+editions:
+- short: krp
+- short: WYG
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0040_000.yaml, hash: 'sha256:83baba46510f05518aa4f081775a4c4a3858fe6017fa89fc3ca1f68411208af4'}
+  - {seq: 2, filename: KR3f0040_002.yaml, hash: 'sha256:7f66af19e59191ce44961a0fbd8386731a281c40ab16d6990d5a7e6001b74a4b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3f0040_000.markers.yaml, hash: 'sha256:568e7c785a1b8e723fd3ce5a6fc5f4126e19509e581b1a507e937576f1719a21'}
+  - {seq: 2, role: markers, filename: assets/KR3f0040_002.markers.yaml, hash: 'sha256:395dda42486ecaf25e7a93a20f3d9d8a44b717b9927b6995b66bfa28f236a7d3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 475
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 475
+    - 475
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0040_WYG_002-p1.s2
+    span:
+    - body
+    - 0
+    - 8338
+  label: 緝古算經
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 8338
+    - 8338
+  label: ''
+  type: section
+  level: 1
+hash: sha256:581b7b988277f0c2a4cef2d1c8f09e3fd4cb79b478280717c272d1178cfb5886
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

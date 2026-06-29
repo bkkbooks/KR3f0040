@@ -1,0 +1,261 @@
+canonical_identifier: bkk:krp/KR3f0040/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: variant, offset: 0, length: 1, content: 上, WYG: 欽定四庫全書子部六緝古算經天文算法類二算書之屬提要臣等謹案緝古算經一卷唐王孝通撰其結銜稱通直郎太史丞其始末未詳惟唐書律厯志戊寅厯條下有武徳九年校厯人算厯博士臣王孝通題盖即其人也是書一名}
+  - {type: page-break, offset: 0, content: '', id: KR3f0040_WYG_000-1a, image: WYG0797/WYG0797-0303a.png}
+  - {type: variant, offset: 0, length: 1, content: 上, krp: 欽定四庫全書子部六緝古算經天文算法類二算書之屬提要臣等謹案緝古算經一卷唐王孝通撰其結銜稱通直郎太史丞其始末未詳惟唐書律厯志戊寅厯條下有武徳九年校厯人算厯博士臣王孝通題盖即其人也是書一名}
+  body:
+  - {type: xml-element, offset: 0, content: '', id: KR3f0040_WYG_000-d11p1}
+  - {type: 'tls:seg-start', offset: 0, content: '', id: KR3f0040_WYG_000-d11p1.s31}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3f0040_WYG_000-d11p1.s31}
+  - {type: line-break, offset: 0, content: '', id: KR3f0040_WYG_000-bkklb1}
+  - {type: variant, offset: 5, length: 2, content: 表臣, WYG: 唐書藝文志崇文總目俱稱李淳風注今案此本卷首實題}
+  - {type: page-break, offset: 5, content: '', id: KR3f0040_WYG_000-1b, image: WYG0797/WYG0797-0303b.png}
+  - {type: variant, offset: 5, length: 2, content: 表臣, krp: 唐書藝文志崇文總目俱稱李淳風注今案此本卷首實題}
+  - {type: 'tls:seg-end', offset: 6, content: '', id: KR3f0040_WYG_000-d11p1.s31_end}
+  - {type: 'tls:seg-start', offset: 6, content: '', id: KR3f0040_WYG_000-d11p1.s32}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR3f0040_WYG_000-d11p1.s32}
+  - {type: line-break, offset: 6, content: '', id: KR3f0040_WYG_000-bkklb2}
+  - {type: variant, offset: 9, length: 14, content: 言臣聞九疇載敍紀法著於彛倫六, WYG: 撰并注則唐志及總目為誤又宋志作一卷唐志鄭樵}
+  - {type: variant, offset: 9, length: 14, content: 言臣聞九疇載敍紀法著於彛倫六, krp: 撰并注則唐志及總目為誤又宋志作一卷唐志鄭樵}
+  - {type: punctuation, offset: 10, content: ：, id: KR3f0040_WYG_000-bkkpn1}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR3f0040_WYG_000-d11p1.s32.1}
+  - {type: punctuation, offset: 16, content: ，, id: KR3f0040_WYG_000-bkkpn2}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR3f0040_WYG_000-d11p1.s32.2}
+  - {type: punctuation, offset: 22, content: ；, id: KR3f0040_WYG_000-bkkpn3}
+  - {type: 'tls:seg', offset: 22, content: '', id: KR3f0040_WYG_000-d11p1.s32.3}
+  - {type: variant, offset: 24, length: 3, content: 成功數, WYG: 文畧俱作四卷王應麟玉海謂今亡其三案孝通原表稱二十}
+  - {type: variant, offset: 24, length: 3, content: 成功數, krp: 文畧俱作四卷王應麟玉海謂今亡其三案孝通原表稱二十}
+  - {type: punctuation, offset: 26, content: ，, id: KR3f0040_WYG_000-bkkpn4}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR3f0040_WYG_000-d11p1.s32.4}
+  - {type: variant, offset: 28, length: 97, content: 參於造化夫爲君上者司牧黔首有神道而設教采能事而經綸盡性窮源莫重於算昔周公制禮有九數之名竊尋九數卽九章是也其理幽而微其形秘而約重句聊用測海寸木可以量天非宇宙之至精其孰能與於此者漢代張蒼删補殘缺校其, WYG: 檢勘書内}
+  - {type: variant, offset: 28, length: 97, content: 參於造化夫爲君上者司牧黔首有神道而設教采能事而經綸盡性窮源莫重於算昔周公制禮有九數之名竊尋九數卽九章是也其理幽而微其形秘而約重句聊用測海寸木可以量天非宇宙之至精其孰能與於此者漢代張蒼删補殘缺校其, krp: 檢勘書内}
+  - {type: punctuation, offset: 32, content: 。, id: KR3f0040_WYG_000-bkkpn5}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR3f0040_WYG_000-d11p1.s32.5}
+  - {type: substitution, offset: 33, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 41, content: ，, id: KR3f0040_WYG_000-bkkpn6}
+  - {type: 'tls:seg', offset: 41, content: '', id: KR3f0040_WYG_000-d11p1.s32.6}
+  - {type: punctuation, offset: 47, content: ，, id: KR3f0040_WYG_000-bkkpn7}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR3f0040_WYG_000-d11p1.s32.7}
+  - {type: punctuation, offset: 53, content: ，, id: KR3f0040_WYG_000-bkkpn8}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3f0040_WYG_000-d11p1.s32.8}
+  - {type: punctuation, offset: 61, content: 。, id: KR3f0040_WYG_000-bkkpn9}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3f0040_WYG_000-d11p1.s32.9}
+  - {type: punctuation, offset: 66, content: ，, id: KR3f0040_WYG_000-bkkpn10}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR3f0040_WYG_000-d11p1.s32.10}
+  - {type: punctuation, offset: 71, content: 。, id: KR3f0040_WYG_000-bkkpn11}
+  - {type: 'tls:seg', offset: 71, content: '', id: KR3f0040_WYG_000-d11p1.s32.11}
+  - {type: substitution, offset: 75, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
+  - {type: punctuation, offset: 76, content: 「, id: KR3f0040_WYG_000-bkkpn12}
+  - {type: punctuation, offset: 78, content: 」, id: KR3f0040_WYG_000-bkkpn13}
+  - {type: punctuation, offset: 80, content: 。, id: KR3f0040_WYG_000-bkkpn14}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3f0040_WYG_000-d11p1.s32.13}
+  - {type: punctuation, offset: 85, content: ，, id: KR3f0040_WYG_000-bkkpn15}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR3f0040_WYG_000-d11p1.s32.14}
+  - {type: substitution, offset: 87, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
+  - {type: punctuation, offset: 90, content: ，, id: KR3f0040_WYG_000-bkkpn16}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR3f0040_WYG_000-d11p1.s32.15}
+  - {type: punctuation, offset: 96, content: ，, id: KR3f0040_WYG_000-bkkpn17}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR3f0040_WYG_000-d11p1.s32.16}
+  - {type: punctuation, offset: 102, content: ，, id: KR3f0040_WYG_000-bkkpn18}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR3f0040_WYG_000-d11p1.s32.17}
+  - {type: punctuation, offset: 108, content: ，, id: KR3f0040_WYG_000-bkkpn19}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR3f0040_WYG_000-d11p1.s32.18}
+  - {type: punctuation, offset: 115, content: 。, id: KR3f0040_WYG_000-bkkpn20}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3f0040_WYG_000-d11p1.s32.19}
+  - {type: punctuation, offset: 123, content: ，, id: KR3f0040_WYG_000-bkkpn21}
+  - {type: 'tls:seg', offset: 123, content: '', id: KR3f0040_WYG_000-d11p1.s32.20}
+  - {type: punctuation, offset: 127, content: ，, id: KR3f0040_WYG_000-bkkpn22}
+  - {type: 'tls:seg', offset: 127, content: '', id: KR3f0040_WYG_000-d11p1.s32.21}
+  - {type: variant, offset: 127, length: 4, content: 頗與古術, WYG: 相同並無缺佚}
+  - {type: variant, offset: 127, length: 4, content: 頗與古術, krp: 相同並無缺佚}
+  - {type: variant, offset: 132, length: 42, content: 同魏朝劉徽篤好斯言博綜纎隠更爲之注徽思極毫芒觸類増長乃造重差之法列於終篇雖卽未爲司南, WYG: 知應麟何所據而云}
+  - {type: variant, offset: 132, length: 42, content: 同魏朝劉徽篤好斯言博綜纎隠更爲之注徽思極毫芒觸類増長乃造重差之法列於終篇雖卽未爲司南, krp: 知應麟何所據而云}
+  - {type: punctuation, offset: 133, content: 。, id: KR3f0040_WYG_000-bkkpn23}
+  - {type: 'tls:seg', offset: 133, content: '', id: KR3f0040_WYG_000-d11p1.s32.22}
+  - {type: punctuation, offset: 141, content: ，, id: KR3f0040_WYG_000-bkkpn24}
+  - {type: 'tls:seg', offset: 141, content: '', id: KR3f0040_WYG_000-d11p1.s32.23}
+  - {type: substitution, offset: 144, original: 隠, replacement: 隱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4332}}
+  - {type: punctuation, offset: 145, content: ，, id: KR3f0040_WYG_000-bkkpn25}
+  - {type: 'tls:seg', offset: 145, content: '', id: KR3f0040_WYG_000-d11p1.s32.24}
+  - {type: substitution, offset: 146, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 149, content: 。, id: KR3f0040_WYG_000-bkkpn26}
+  - {type: 'tls:seg', offset: 149, content: '', id: KR3f0040_WYG_000-d11p1.s32.25}
+  - {type: punctuation, offset: 154, content: ，, id: KR3f0040_WYG_000-bkkpn27}
+  - {type: 'tls:seg', offset: 154, content: '', id: KR3f0040_WYG_000-d11p1.s32.26}
+  - {type: substitution, offset: 156, original: 増, replacement: 增, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4486}}
+  - {type: punctuation, offset: 158, content: ，, id: KR3f0040_WYG_000-bkkpn28}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR3f0040_WYG_000-d11p1.s32.27}
+  - {type: punctuation, offset: 164, content: ，, id: KR3f0040_WYG_000-bkkpn29}
+  - {type: 'tls:seg', offset: 164, content: '', id: KR3f0040_WYG_000-d11p1.s32.28}
+  - {type: punctuation, offset: 168, content: 。, id: KR3f0040_WYG_000-bkkpn30}
+  - {type: 'tls:seg', offset: 168, content: '', id: KR3f0040_WYG_000-d11p1.s32.29}
+  - {type: substitution, offset: 169, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
+  - {type: substitution, offset: 171, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 174, content: ，, id: KR3f0040_WYG_000-bkkpn31}
+  - {type: 'tls:seg', offset: 174, content: '', id: KR3f0040_WYG_000-d11p1.s32.30}
+  - {type: variant, offset: 175, length: 44, content: 亦一時獨步自兹厥後不繼前蹤賀循徐岳之徒王彪甄鸞之輩㑹通之數無聞焉耳但舊經殘駮尚有闕漏自劉, WYG: 也書中大㫖}
+  - {type: variant, offset: 175, length: 44, content: 亦一時獨步自兹厥後不繼前蹤賀循徐岳之徒王彪甄鸞之輩㑹通之數無聞焉耳但舊經殘駮尚有闕漏自劉, krp: 也書中大㫖}
+  - {type: punctuation, offset: 180, content: 。, id: KR3f0040_WYG_000-bkkpn32}
+  - {type: 'tls:seg', offset: 180, content: '', id: KR3f0040_WYG_000-d11p1.s32.31}
+  - {type: punctuation, offset: 184, content: ，, id: KR3f0040_WYG_000-bkkpn33}
+  - {type: 'tls:seg', offset: 184, content: '', id: KR3f0040_WYG_000-d11p1.s32.32}
+  - {type: punctuation, offset: 188, content: 。, id: KR3f0040_WYG_000-bkkpn34}
+  - {type: 'tls:seg', offset: 188, content: '', id: KR3f0040_WYG_000-d11p1.s32.33}
+  - {type: punctuation, offset: 190, content: 、, id: KR3f0040_WYG_000-bkkpn35}
+  - {type: substitution, offset: 191, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
+  - {type: punctuation, offset: 194, content: ，, id: KR3f0040_WYG_000-bkkpn36}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR3f0040_WYG_000-d11p1.s32.35}
+  - {type: punctuation, offset: 196, content: 、, id: KR3f0040_WYG_000-bkkpn37}
+  - {type: punctuation, offset: 200, content: ，, id: KR3f0040_WYG_000-bkkpn38}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR3f0040_WYG_000-d11p1.s32.37}
+  - {type: punctuation, offset: 208, content: 。, id: KR3f0040_WYG_000-bkkpn39}
+  - {type: 'tls:seg', offset: 208, content: '', id: KR3f0040_WYG_000-d11p1.s32.38}
+  - {type: punctuation, offset: 213, content: ，, id: KR3f0040_WYG_000-bkkpn40}
+  - {type: 'tls:seg', offset: 213, content: '', id: KR3f0040_WYG_000-d11p1.s32.39}
+  - {type: punctuation, offset: 217, content: 。, id: KR3f0040_WYG_000-bkkpn41}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR3f0040_WYG_000-d11p1.s32.40}
+  - {type: variant, offset: 220, length: 124, content: 下更不足言其祖暅之綴術時人稱之精妙曾不覺方邑進行之術全錯不通芻甍方亭之問於理未盡臣今更作新術於此附伸臣長自閭閻少小學算鐫磨愚鈍迄將皓首鑚尋祕奥曲盡無遺代乏知音終成寡和伏蒙聖朝收拾用臣爲太史丞比年已來奉勅校勘傅仁均曆凡駮正術錯三十餘道卽付太史施行伏尋, WYG: ''}
+  - {type: variant, offset: 220, length: 124, content: 下更不足言其祖暅之綴術時人稱之精妙曾不覺方邑進行之術全錯不通芻甍方亭之問於理未盡臣今更作新術於此附伸臣長自閭閻少小學算鐫磨愚鈍迄將皓首鑚尋祕奥曲盡無遺代乏知音終成寡和伏蒙聖朝收拾用臣爲太史丞比年已來奉勅校勘傅仁均曆凡駮正術錯三十餘道卽付太史施行伏尋, krp: ''}
+  - {type: punctuation, offset: 225, content: 。, id: KR3f0040_WYG_000-bkkpn42}
+  - {type: 'tls:seg', offset: 225, content: '', id: KR3f0040_WYG_000-d11p1.s32.41}
+  - {type: punctuation, offset: 229, content: 「, id: KR3f0040_WYG_000-bkkpn43}
+  - {type: punctuation, offset: 231, content: 」, id: KR3f0040_WYG_000-bkkpn44}
+  - {type: punctuation, offset: 231, content: ，, id: KR3f0040_WYG_000-bkkpn45}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR3f0040_WYG_000-d11p1.s32.42}
+  - {type: punctuation, offset: 237, content: 。, id: KR3f0040_WYG_000-bkkpn46}
+  - {type: 'tls:seg', offset: 237, content: '', id: KR3f0040_WYG_000-d11p1.s32.43}
+  - {type: punctuation, offset: 250, content: ，, id: KR3f0040_WYG_000-bkkpn47}
+  - {type: 'tls:seg', offset: 250, content: '', id: KR3f0040_WYG_000-d11p1.s32.44}
+  - {type: punctuation, offset: 260, content: 。, id: KR3f0040_WYG_000-bkkpn48}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR3f0040_WYG_000-d11p1.s32.45}
+  - {type: punctuation, offset: 266, content: ，, id: KR3f0040_WYG_000-bkkpn49}
+  - {type: 'tls:seg', offset: 266, content: '', id: KR3f0040_WYG_000-d11p1.s32.46}
+  - {type: punctuation, offset: 270, content: 。, id: KR3f0040_WYG_000-bkkpn50}
+  - {type: 'tls:seg', offset: 270, content: '', id: KR3f0040_WYG_000-d11p1.s33}
+  - {type: line-break, offset: 270, content: '', id: KR3f0040_WYG_000-bkklb3}
+  - {type: punctuation, offset: 275, content: ，, id: KR3f0040_WYG_000-bkkpn51}
+  - {type: 'tls:seg', offset: 275, content: '', id: KR3f0040_WYG_000-d11p1.s33.1}
+  - {type: punctuation, offset: 279, content: ，, id: KR3f0040_WYG_000-bkkpn52}
+  - {type: 'tls:seg', offset: 279, content: '', id: KR3f0040_WYG_000-d11p1.s33.2}
+  - {type: punctuation, offset: 283, content: ，, id: KR3f0040_WYG_000-bkkpn53}
+  - {type: 'tls:seg', offset: 283, content: '', id: KR3f0040_WYG_000-d11p1.s33.3}
+  - {type: punctuation, offset: 287, content: ，, id: KR3f0040_WYG_000-bkkpn54}
+  - {type: 'tls:seg', offset: 287, content: '', id: KR3f0040_WYG_000-d11p1.s33.4}
+  - {type: substitution, offset: 287, original: 鑚, replacement: 鑽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0931}}
+  - {type: substitution, offset: 290, original: 奥, replacement: 奧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4338}}
+  - {type: punctuation, offset: 291, content: ，, id: KR3f0040_WYG_000-bkkpn55}
+  - {type: 'tls:seg', offset: 291, content: '', id: KR3f0040_WYG_000-d11p1.s33.5}
+  - {type: punctuation, offset: 295, content: 。, id: KR3f0040_WYG_000-bkkpn56}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR3f0040_WYG_000-d11p1.s33.6}
+  - {type: punctuation, offset: 299, content: ，, id: KR3f0040_WYG_000-bkkpn57}
+  - {type: 'tls:seg', offset: 299, content: '', id: KR3f0040_WYG_000-d11p1.s33.7}
+  - {type: punctuation, offset: 303, content: 。, id: KR3f0040_WYG_000-bkkpn58}
+  - {type: 'tls:seg', offset: 303, content: '', id: KR3f0040_WYG_000-d11p1.s33.8}
+  - {type: punctuation, offset: 309, content: ，, id: KR3f0040_WYG_000-bkkpn59}
+  - {type: 'tls:seg', offset: 309, content: '', id: KR3f0040_WYG_000-d11p1.s33.9}
+  - {type: substitution, offset: 311, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 315, content: 。, id: KR3f0040_WYG_000-bkkpn60}
+  - {type: 'tls:seg', offset: 315, content: '', id: KR3f0040_WYG_000-d11p1.s33.10}
+  - {type: punctuation, offset: 319, content: ，, id: KR3f0040_WYG_000-bkkpn61}
+  - {type: 'tls:seg', offset: 319, content: '', id: KR3f0040_WYG_000-d11p1.s33.11}
+  - {type: substitution, offset: 320, original: 勅, replacement: 敕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4438}}
+  - {type: punctuation, offset: 327, content: ，, id: KR3f0040_WYG_000-bkkpn62}
+  - {type: 'tls:seg', offset: 327, content: '', id: KR3f0040_WYG_000-d11p1.s33.12}
+  - {type: punctuation, offset: 336, content: ，, id: KR3f0040_WYG_000-bkkpn63}
+  - {type: 'tls:seg', offset: 336, content: '', id: KR3f0040_WYG_000-d11p1.s33.13}
+  - {type: substitution, offset: 336, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
+  - {type: punctuation, offset: 342, content: 。, id: KR3f0040_WYG_000-bkkpn64}
+  - {type: 'tls:seg', offset: 342, content: '', id: KR3f0040_WYG_000-d11p1.s33.14}
+  - {type: punctuation, offset: 358, content: 。, id: KR3f0040_WYG_000-bkkpn65}
+  - {type: 'tls:seg', offset: 358, content: '', id: KR3f0040_WYG_000-d11p1.s33.15}
+  - {type: variant, offset: 358, length: 1, content: 至, WYG: 其}
+  - {type: variant, offset: 358, length: 1, content: 至, krp: 其}
+  - {type: variant, offset: 359, length: 1, content: 于, WYG: 於}
+  - {type: variant, offset: 359, length: 1, content: 于, krp: 於}
+  - {type: substitution, offset: 361, original: 寛, replacement: 寬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4487}}
+  - {type: variant, offset: 363, length: 1, content: 狹, WYG: 狭}
+  - {type: variant, offset: 363, length: 1, content: 狹, krp: 狭}
+  - {type: punctuation, offset: 364, content: 、, id: KR3f0040_WYG_000-bkkpn66}
+  - {type: variant, offset: 365, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 365, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 368, content: ，, id: KR3f0040_WYG_000-bkkpn67}
+  - {type: 'tls:seg', offset: 368, content: '', id: KR3f0040_WYG_000-d11p1.s33.17}
+  - {type: variant, offset: 368, length: 4, content: 正經之内, WYG: ''}
+  - {type: variant, offset: 368, length: 4, content: 正經之内, krp: ''}
+  - {type: substitution, offset: 371, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: punctuation, offset: 376, content: 。, id: KR3f0040_WYG_000-bkkpn68}
+  - {type: 'tls:seg', offset: 376, content: '', id: KR3f0040_WYG_000-d11p1.s33.18}
+  - {type: variant, offset: 376, length: 5, content: 致使今代之, WYG: 世}
+  - {type: variant, offset: 376, length: 5, content: 致使今代之, krp: 世}
+  - {type: variant, offset: 382, length: 0, content: '', WYG: 多}
+  - {type: variant, offset: 382, length: 0, content: '', krp: 多}
+  - {type: variant, offset: 384, length: 1, content: 深, WYG: 其}
+  - {type: variant, offset: 384, length: 1, content: 深, krp: 其}
+  - {type: punctuation, offset: 386, content: ，, id: KR3f0040_WYG_000-bkkpn69}
+  - {type: 'tls:seg', offset: 386, content: '', id: KR3f0040_WYG_000-d11p1.s33.19}
+  - {type: variant, offset: 386, length: 39, content: 就平正之聞同欹邪之用斯乃圎孔方枘如何可安臣晝思夜想臨書浩歎恐一旦瞑目将來莫覩遂, WYG: 因}
+  - {type: variant, offset: 386, length: 39, content: 就平正之聞同欹邪之用斯乃圎孔方枘如何可安臣晝思夜想臨書浩歎恐一旦瞑目将來莫覩遂, krp: 因}
+  - {type: punctuation, offset: 396, content: 。, id: KR3f0040_WYG_000-bkkpn70}
+  - {type: 'tls:seg', offset: 396, content: '', id: KR3f0040_WYG_000-d11p1.s33.20}
+  - {type: punctuation, offset: 402, content: ，, id: KR3f0040_WYG_000-bkkpn71}
+  - {type: 'tls:seg', offset: 402, content: '', id: KR3f0040_WYG_000-d11p1.s33.21}
+  - {type: punctuation, offset: 406, content: 。, id: KR3f0040_WYG_000-bkkpn72}
+  - {type: 'tls:seg', offset: 406, content: '', id: KR3f0040_WYG_000-d11p1.s33.22}
+  - {type: punctuation, offset: 411, content: ，, id: KR3f0040_WYG_000-bkkpn73}
+  - {type: 'tls:seg', offset: 411, content: '', id: KR3f0040_WYG_000-d11p1.s33.23}
+  - {type: punctuation, offset: 415, content: ，, id: KR3f0040_WYG_000-bkkpn74}
+  - {type: 'tls:seg', offset: 415, content: '', id: KR3f0040_WYG_000-d11p1.s33.24}
+  - {type: punctuation, offset: 420, content: ，, id: KR3f0040_WYG_000-bkkpn75}
+  - {type: 'tls:seg', offset: 420, content: '', id: KR3f0040_WYG_000-d11p1.s33.25}
+  - {type: substitution, offset: 420, original: 将, replacement: 將, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0782}}
+  - {type: punctuation, offset: 424, content: 。, id: KR3f0040_WYG_000-bkkpn76}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR3f0040_WYG_000-d11p1.s33.26}
+  - {type: variant, offset: 428, length: 6, content: 之餘續狹斜之, WYG: 明其}
+  - {type: variant, offset: 428, length: 6, content: 之餘續狹斜之, krp: 明其}
+  - {type: punctuation, offset: 430, content: ，, id: KR3f0040_WYG_000-bkkpn77}
+  - {type: 'tls:seg', offset: 430, content: '', id: KR3f0040_WYG_000-d11p1.s33.27}
+  - {type: punctuation, offset: 435, content: ，, id: KR3f0040_WYG_000-bkkpn78}
+  - {type: 'tls:seg', offset: 435, content: '', id: KR3f0040_WYG_000-d11p1.s33.28}
+  - {type: variant, offset: 436, length: 0, content: '', WYG: 推朔夜半時月之所離者一術推仰觀臺及羡道高廣袤者一術推築堤授工上下廣及髙袤不同者一術推築龍尾堤者一術推穿河授工斜正袤上廣及深并漘上廣不同者一術推四郡輸粟窖上下廣袤餘郡别出人及窖深廣者一術推亭倉上下方髙者一術推芻甍圓囤者各一求推方倉圓窖對待者五術推勾股邊積亘求者六術共合}
+  - {type: page-break, offset: 436, content: '', id: KR3f0040_WYG_000-2a, image: WYG0797/WYG0797-0304a.png}
+  - {type: variant, offset: 436, length: 0, content: '', krp: 推朔夜半時月之所離者一術推仰觀臺及羡道高廣袤者一術推築堤授工上下廣及髙袤不同者一術推築龍尾堤者一術推穿河授工斜正袤上廣及深并漘上廣不同者一術推四郡輸粟窖上下廣袤餘郡别出人及窖深廣者一術推亭倉上下方髙者一術推芻甍圓囤者各一求推方倉圓窖對待者五術推勾股邊積亘求者六術共合}
+  - {type: punctuation, offset: 439, content: ，, id: KR3f0040_WYG_000-bkkpn79}
+  - {type: 'tls:seg', offset: 439, content: '', id: KR3f0040_WYG_000-d11p1.s33.29}
+  - {type: variant, offset: 439, length: 6, content: 名曰緝古請訪, WYG: 之數中間毎以人户道里大小逺近及材物之輕重工作之時日乗除進退叅伍以得其法頗不以深淺為次第故讀者或不}
+  - {type: page-break, offset: 439, content: '', id: KR3f0040_WYG_000-2b, image: WYG0797/WYG0797-0304b.png}
+  - {type: variant, offset: 439, length: 6, content: 名曰緝古請訪, krp: 之數中間毎以人户道里大小逺近及材物之輕重工作之時日乗除進退叅伍以得其法頗不以深淺為次第故讀者或不}
+  - {type: punctuation, offset: 441, content: 「, id: KR3f0040_WYG_000-bkkpn80}
+  - {type: punctuation, offset: 443, content: 」, id: KR3f0040_WYG_000-bkkpn81}
+  - {type: punctuation, offset: 443, content: 。, id: KR3f0040_WYG_000-bkkpn82}
+  - {type: 'tls:seg', offset: 443, content: '', id: KR3f0040_WYG_000-d11p1.s33.30}
+  - {type: variant, offset: 446, length: 0, content: '', WYG: 驟通而卒篇以後由源竟委端緒足尋洵為思極毫芒曲盡事理唐代明}
+  - {type: variant, offset: 446, length: 0, content: '', krp: 驟通而卒篇以後由源竟委端緒足尋洵為思極毫芒曲盡事理唐代明}
+  - {type: variant, offset: 447, length: 0, content: '', WYG: 立學習此書者以三年為限亦知其術}
+  - {type: variant, offset: 447, length: 0, content: '', krp: 立學習此書者以三年為限亦知其術}
+  - {type: variant, offset: 448, length: 3, content: 人考論, WYG: 精妙非旦夕所克竟其義矣其書世罕流播此乃宋元豐七年秘書監趙彦若等校定刋行舊本常熟毛扆}
+  - {type: variant, offset: 448, length: 3, content: 人考論, krp: 精妙非旦夕所克竟其義矣其書世罕流播此乃宋元豐七年秘書監趙彦若等校定刋行舊本常熟毛扆}
+  - {type: variant, offset: 452, length: 2, content: 失如, WYG: 之章邱李氏而影抄傳之者今詳加勘正其文間}
+  - {type: page-break, offset: 452, content: '', id: KR3f0040_WYG_000-3a, image: WYG0797/WYG0797-0304c.png}
+  - {type: variant, offset: 452, length: 2, content: 失如, krp: 之章邱李氏而影抄傳之者今詳加勘正其文間}
+  - {type: punctuation, offset: 453, content: ，, id: KR3f0040_WYG_000-bkkpn83}
+  - {type: 'tls:seg', offset: 453, content: '', id: KR3f0040_WYG_000-d11p1.s33.31}
+  - {type: variant, offset: 455, length: 1, content: 排, WYG: 脱闕不敢妄補謹撮取}
+  - {type: variant, offset: 455, length: 1, content: 排, krp: 脱闕不敢妄補謹撮取}
+  - {type: variant, offset: 457, length: 0, content: '', WYG: 義别加圖説附諸本文之左以便觀覽云乾隆四十六年十}
+  - {type: variant, offset: 457, length: 0, content: '', krp: 義别加圖説附諸本文之左以便觀覽云乾隆四十六年十}
+  - {type: variant, offset: 458, length: 1, content: 字, WYG: 月恭校上總纂官}
+  - {type: variant, offset: 458, length: 1, content: 字, krp: 月恭校上總纂官}
+  - {type: punctuation, offset: 459, content: ，, id: KR3f0040_WYG_000-bkkpn84}
+  - {type: 'tls:seg', offset: 459, content: '', id: KR3f0040_WYG_000-d11p1.s33.32}
+  - {type: variant, offset: 460, length: 15, content: 欲謝以千金輕用陳聞伏深戰悚謹言, WYG: 紀昀臣陸錫熊臣孫士毅總校官臣陸費墀}
+  - {type: variant, offset: 460, length: 15, content: 欲謝以千金輕用陳聞伏深戰悚謹言, krp: 紀昀臣陸錫熊臣孫士毅總校官臣陸費墀}
+  - {type: punctuation, offset: 465, content: 。, id: KR3f0040_WYG_000-bkkpn85}
+  - {type: 'tls:seg', offset: 465, content: '', id: KR3f0040_WYG_000-d11p1.s33.33}
+  - {type: punctuation, offset: 469, content: ，, id: KR3f0040_WYG_000-bkkpn86}
+  - {type: 'tls:seg', offset: 469, content: '', id: KR3f0040_WYG_000-d11p1.s33.34}
+  - {type: punctuation, offset: 473, content: 。, id: KR3f0040_WYG_000-bkkpn87}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR3f0040_WYG_000-d11p1.s33.35}
+  back: []
+hash: sha256:568e7c785a1b8e723fd3ce5a6fc5f4126e19509e581b1a507e937576f1719a21
